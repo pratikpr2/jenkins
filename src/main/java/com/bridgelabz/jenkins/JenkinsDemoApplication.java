@@ -17,7 +17,7 @@ public class JenkinsDemoApplication {
 	
 	@GetMapping("/")
 	public String method() {
-	 return "Sample Method";
+	 return "Sample Method Changed";
 	}
 	
 }
